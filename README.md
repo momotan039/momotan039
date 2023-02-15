@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Taha</h1>
 <h3 align="center">A passionate full-stack developer & Mobile Apps</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=momotan039&label=Profile%20views&color=0e75b6&style=flat" alt="momotan039" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=momotan039&label=Profile%20views&color=0e75b6&style=flat" alt="momotan039" /> </p> -->
 
 <!-- <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=momotan039" alt="momotan039" /></a> </p>
  -->
