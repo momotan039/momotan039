@@ -11,15 +11,15 @@ Welcome to my corner of the coding universe! I'm a dedicated full-stack develope
 ## My Projects
 Here's a glimpse of my enchanted creations:
 
-### 1. Project Name: Musalsali Project
+### 1. Musalsali Project
    - 🛠️Technologies: PhpMyAdmin · MySQL · WordPress · PHP · · HTML · JavaScript · Css
    - 🌟Explore Project: [Link](http://musalsali.byethost9.com)
 
-### 2. Project Name: Recommended Shows
+### 2. Recommended Shows
    - 🛠️Technologies: Redux.js · Web Applications · Express.js · React.js · Node.js
    - 🌟Discover Project: [Link](https://recommended-shows-mt.netlify.app/)
 
-### 3. Project Name: Typing Speed App
+### 3. Typing Speed App
    - 🛠️Technologies: React , Node , MongoDB
    - 🌟Embark on the Quest: [Link](https://typing-speed-mt.netlify.app/)
 
