@@ -8,6 +8,21 @@ Welcome to my corner of the coding universe! I'm a dedicated full-stack develope
 - Backend Sorcery: From the realm of servers to the depths of databases, I wield the powers of PHP,Wordpress,Node, C#, MongoDB, and SQL to build robust and scalable backend systems.
 - Full-Stack Alchemy: I love blending frontend and backend technologies to brew up seamless and enchanting web applications.
 
+## My Projects
+Here's a glimpse of my enchanted creations:
+
+1. Project Name: Musalsali Project
+   🛠️ Technologies: PhpMyAdmin · MySQL · WordPress · PHP · · HTML · JavaScript · Css
+   🌟 Explore Project: [Link](http://musalsali.byethost9.com)
+
+2. Project Name: Recommended Shows
+   🛠️ Technologies: Redux.js · Web Applications · Express.js · React.js · Node.js
+   🌟 Discover Project: [Link](https://recommended-shows-mt.netlify.app/)
+
+3. Project Name: Typing Speed App
+   🛠️ Technologies: React , Node , MongoDB
+   🌟 Embark on the Quest: [Link](https://typing-speed-mt.netlify.app/)
+
 
 ## Let's Connect
 Embark on an epic quest together or simply share tales of our coding adventures! Connect with me:
