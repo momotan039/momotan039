@@ -26,6 +26,14 @@ Here's a glimpse of my enchanted creations:
    - 🛠️Technologies: React , Node , MongoDB
    - 🌟Embark on the Quest: [Link](https://typing-speed-mt.netlify.app/)
 
+### 4. Lunch Craft SaaS
+   - 🛠️Technologies: PhpMyAdmin · MySQL · WordPress · PHP · · HTML · JavaScript · Css . Bootstrap
+   - 🌟Explore Project: [Link](https://mohamad-taha.com/portfolio/wordpress/lunch_craft-wp)
+
+### 5. Restaurant Café Food
+   - 🛠️Technologies: PhpMyAdmin · MySQL · WordPress · PHP · · HTML · JavaScript · Css . Bootstrap
+   - 🌟Explore Project: [Link](https://mohamad-taha.com/portfolio/wordpress/restaurant-wp)
+
 
 ## Let's Connect
 Embark on an epic quest together or simply share tales of our coding adventures! Connect with me:
