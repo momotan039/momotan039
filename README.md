@@ -11,14 +11,14 @@ I’m a Full Stack Developer experienced in .NET/C#, MERN (MongoDB, Express.js, 
 - ✅Other: OOP, RESTful APIs, Git, Agile/Scrum
 
 ## Portfolio
-Feel Free to take a look at work at [Link](https://leafy-puppy-5316c2.netlify.app)
+Feel Free to take a look at work at [Link](https://mohamad-taha.com)
 
 ## My Projects
 Here's a glimpse of my enchanted creations:
 
 ### 1. Musalsali Project
    - 🛠️Technologies: PhpMyAdmin · MySQL · WordPress · PHP · · HTML · JavaScript · Css
-   - 🌟Explore Project: [Link](http://musalsali.byethost9.com)
+   - 🌟Explore Project: [Link](https://mohamad-taha.com/portfolio/wordpress/musalsali)
 
 ### 2. Recommended Shows
    - 🛠️Technologies: Redux.js · Web Applications · Express.js · React.js · Node.js
