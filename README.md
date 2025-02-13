@@ -1,12 +1,14 @@
 # Hey there, I'm Mohammed! 👋
 
 ## About Me
-Welcome to my corner of the coding universe! I'm a dedicated full-stack developer with a passion for crafting delightful digital experiences. With expertise in React, Angular, PHP, Wordpress, C#, MongoDB, and SQL, I thrive on turning ideas into elegant and functional solutions.
+I’m a Full Stack Developer experienced in .NET/C#, MERN (MongoDB, Express.js, React, Node.js), PHP, and WordPress. My expertise spans web development, RESTful APIs, and cloud deployments, with a track record of delivering secure and efficient applications.
 
 ## What I Do
-- ✅Frontend Wizardry: I specialize in weaving magic with React and Angular to create immersive user interfaces that captivate and engage.
-- ✅Backend Sorcery: From the realm of servers to the depths of databases, I wield the powers of PHP, Wordpress, Node, C#, MongoDB, and SQL to build robust and scalable backend systems.
-- ✅Full-Stack Alchemy: I love blending frontend and backend technologies to brew up seamless and enchanting web applications.
+- ✅Backend: .NET (Core/6/7/8), C# 12, Node.js, Express.js, PHP
+- ✅Frontend: React, Angular, WordPress, JS (ES6+), TypeScript
+- ✅Databases: SQL Server, MySQL, MongoDB, DynamoDB
+- ✅Cloud/DevOps: AWS (EC2, S3), Docker, Kubernetes, CI/CD
+- ✅Other: OOP, RESTful APIs, Git, Agile/Scrum
 
 ## Portfolio
 Feel Free to take a look at work at [Link](https://leafy-puppy-5316c2.netlify.app)
