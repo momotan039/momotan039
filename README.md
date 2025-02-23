@@ -18,7 +18,7 @@ Here's a glimpse of my enchanted creations:
 
 ### 1. Musalsali Project
    - 🛠️Technologies: PhpMyAdmin · MySQL · WordPress · PHP · · HTML · JavaScript · Css
-   - 🌟Explore Project: [Link](https://mohamad-taha.com/portfolio/wordpress/musalsali)
+   - 🌟Explore Project: [Link](https://mohamad-taha.com/portfolio/wordpress/musalsali-wp)
 
 ### 2. Recommended Shows
    - 🛠️Technologies: Redux.js · Web Applications · Express.js · React.js · Node.js
