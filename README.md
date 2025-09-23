@@ -1,45 +1,53 @@
-# Hey there, I'm Mohammed! 👋
+# 👋 Hey there, I'm Mohammed Taha
 
-## About Me
-I’m a Full Stack Developer experienced in .NET/C#, MERN (MongoDB, Express.js, React, Node.js), PHP, and WordPress. My expertise spans web development, RESTful APIs, and cloud deployments, with a track record of delivering secure and efficient applications.
+## 🌟 About Me
+I am a passionate **Full Stack Developer** specializing in **.NET/C#**, **MERN Stack (MongoDB, Express.js, React, Node.js)**, **PHP**, and **WordPress**. I craft **secure, scalable, and high-performance web applications** with expertise in RESTful APIs, cloud deployments, and modern frontend & backend technologies.
 
-## What I Do
-- ✅Backend: .NET (Core/6/7/8), C# 12, Node.js, Express.js, PHP
-- ✅Frontend: React, Angular, WordPress, JS (ES6+), TypeScript
-- ✅Databases: SQL Server, MySQL, MongoDB, DynamoDB
-- ✅Cloud/DevOps: AWS (EC2, S3), Docker, Kubernetes, CI/CD
-- ✅Other: OOP, RESTful APIs, Git, Agile/Scrum
+---
 
-## Portfolio
-Feel Free to take a look at work at [Link](https://mohamad-taha.com)
+## 💻 My Expertise
+- **Backend:** .NET Core/6/7/8, C# 12, Node.js, Express.js, PHP  
+- **Frontend:** React, Angular, WordPress, JavaScript (ES6+), TypeScript  
+- **Databases:** SQL Server, MySQL, MongoDB, DynamoDB  
+- **Cloud & DevOps:** AWS (EC2, S3), Docker, Kubernetes, CI/CD  
+- **Other Skills:** OOP, RESTful APIs, Git, Agile/Scrum  
 
-## My Projects
-Here's a glimpse of my enchanted creations:
+*All my work follows best practices for security, performance, and maintainability.*
+
+---
+
+## 🏆 Portfolio
+Check out my live projects and explore my **digital creations**: [Portfolio](https://mohamad-taha.com)
+
+---
+
+## 🚀 Selected Projects
 
 ### 1. Musalsali Project
-   - 🛠️Technologies: PhpMyAdmin · MySQL · WordPress · PHP · · HTML · JavaScript · Css
-   - 🌟Explore Project: [Link](https://mohamad-taha.com/portfolio/wordpress/musalsali-wp)
+- **Technologies:** PHP, WordPress, MySQL, PhpMyAdmin, HTML, CSS, JavaScript  
+- **Live Demo:** [Explore Project](https://mohamad-taha.com/portfolio/wordpress/musalsali-wp)
 
 ### 2. Recommended Shows
-   - 🛠️Technologies: Redux.js · Web Applications · Express.js · React.js · Node.js
-   - 🌟Discover Project: [Link](https://recommended-shows-mt.netlify.app/)
+- **Technologies:** React.js, Redux.js, Node.js, Express.js  
+- **Live Demo:** [Discover Project](https://recommended-shows-mt.netlify.app/)
 
 ### 3. Typing Speed App
-   - 🛠️Technologies: React , Node , MongoDB
-   - 🌟Embark on the Quest: [Link](https://typing-speed-mt.netlify.app/)
+- **Technologies:** React.js, Node.js, MongoDB  
+- **Live Demo:** [Embark on the Quest](https://typing-speed-mt.netlify.app/)
 
 ### 4. Lunch Craft SaaS
-   - 🛠️Technologies: PhpMyAdmin · MySQL · WordPress · PHP · · HTML · JavaScript · Css . Bootstrap
-   - 🌟Explore Project: [Link](https://mohamad-taha.com/portfolio/wordpress/lunch_craft-wp)
+- **Technologies:** PHP, WordPress, MySQL, PhpMyAdmin, Bootstrap, HTML, CSS, JS  
+- **Live Demo:** [Explore Project](https://mohamad-taha.com/portfolio/wordpress/lunch_craft-wp)
 
 ### 5. Restaurant Café Food
-   - 🛠️Technologies: PhpMyAdmin · MySQL · WordPress · PHP · · HTML · JavaScript · Css . Bootstrap
-   - 🌟Explore Project: [Link](https://mohamad-taha.com/portfolio/wordpress/restaurant-wp)
+- **Technologies:** PHP, WordPress, MySQL, PhpMyAdmin, Bootstrap, HTML, CSS, JS  
+- **Live Demo:** [Explore Project](https://mohamad-taha.com/portfolio/wordpress/restaurant-wp)
 
+---
 
-## Let's Connect
-Embark on an epic quest together or simply share tales of our coding adventures! Connect with me:
-- LinkedIn: [Link](https://www.linkedin.com/in/mohammed-taha-07141422b/)
-- Email: momotaha039@gmail.com
+## 📬 Let's Connect
+Whether you want to **collaborate, hire, or share coding adventures**, I’d love to hear from you:  
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mohammed-taha-07141422b/)  
+- **Email:** momotaha039@gmail.com  
 
-May your code be bug-free and your deployments swift! Let's craft some digital magic together! ✨
+✨ Let's craft **digital magic** together — bug-free code, smooth deployments, and innovative solutions!
