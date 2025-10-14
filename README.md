@@ -1,18 +1,45 @@
-# 👋 Hey there, I'm Mohammed Taha
+# 👋 Hey there, I'm **Mohammed Taha**
 
-## 🌟 About Me
-I am a passionate **Full Stack Developer** specializing in **.NET/C#**, **MERN Stack (MongoDB, Express.js, React, Node.js)**, **PHP**, and **WordPress**. I craft **secure, scalable, and high-performance web applications** with expertise in RESTful APIs, cloud deployments, and modern frontend & backend technologies.
+## 🌟 About Me  
+I’m a **Full Stack Developer (3+ years)** experienced in building **scalable, high-performance web applications** using **React.js, Node.js, PHP, .NET, and WordPress**.  
+I focus on delivering **clean, maintainable code** and **optimized user experiences**, with deployments across **AWS and VPS environments**.
+
+🤖 I also integrate **AI capabilities** into web systems — leveraging **OpenAI APIs, RAG pipelines, and local LLMs (Ollama)** to create intelligent chatbots, recommendation engines, and automated workflows.
 
 ---
 
-## 💻 My Expertise
-- **Backend:** .NET Core/6/7/8, C# 12, Node.js, Express.js, PHP  
-- **Frontend:** React, Angular, WordPress, JavaScript (ES6+), TypeScript  
-- **Databases:** SQL Server, MySQL, MongoDB, DynamoDB  
-- **Cloud & DevOps:** AWS (EC2, S3), Docker, Kubernetes, CI/CD  
-- **Other Skills:** OOP, RESTful APIs, Git, Agile/Scrum  
+## 💻 My Tech Stack  
 
-*All my work follows best practices for security, performance, and maintainability.*
+### 🧠 Backend  
+- .NET 6–8 (C# 12)  
+- Node.js / Express.js  
+- PHP  
+
+### 🎨 Frontend  
+- React.js / Next.js / Angular  
+- WordPress (Custom Themes & Plugins)  
+- TypeScript / JavaScript (ES6+)  
+
+### 🗄️ Databases  
+- SQL Server / MySQL  
+- MongoDB / DynamoDB  
+
+### ☁️ Cloud & DevOps  
+- AWS (EC2, S3, CloudFront)  
+- Docker / CI-CD Pipelines  
+
+### 🤖 AI Integration  
+- OpenAI API / LangChain / RAG Systems  
+- Ollama / Local AI Models  
+
+### ⚙️ Other Skills  
+- OOP / RESTful APIs  
+- Git / Agile & Scrum  
+
+---
+
+## 🚀 My Focus  
+Delivering **secure**, **scalable**, and **intelligent** solutions that merge modern web technologies with **applied AI** — turning traditional apps into smarter, more efficient digital experiences.
 
 ---
 
