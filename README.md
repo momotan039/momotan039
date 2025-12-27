@@ -15,6 +15,15 @@ I am a **Full Stack Developer** with a passion for building high-performance web
 
 ---
 
+### 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=momotan039&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mohammed's Stats" />
+  <br>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=momotan039&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
 ### 🛠️ Tech Stack & Skills
 
 | Category | Skills |
@@ -23,27 +32,15 @@ I am a **Full Stack Developer** with a passion for building high-performance web
 | **Backend** | ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
 | **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
 | **AI & LLM** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge) |
-| **DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-
----
-
-### 📊 GitHub Statistics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=momotan039&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mohammed's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momotan039&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
 ### 🌟 Featured Projects
 
-> [!TIP]
-> Click on the links below to see live demos of my work!
-
-- **[Musalsali Project](https://mohamad-taha.com/portfolio/wordpress/musalsali-wp)** *PHP, WordPress, MySQL* - A comprehensive media platform.
-- **[Recommended Shows](https://recommended-shows-mt.netlify.app/)** *React, Redux, Node.js* - Intelligent content discovery.
-- **[Lunch Craft SaaS](https://mohamad-taha.com/portfolio/wordpress/lunch_craft-wp)** *PHP, Bootstrap, MySQL* - Scalable SaaS solution for food services.
-- **[Typing Speed App](https://typing-speed-mt.netlify.app/)** *MERN Stack* - A high-performance real-time application.
+* **[Musalsali Project](https://mohamad-taha.com/portfolio/wordpress/musalsali-wp)** - *PHP, WordPress, MySQL*
+* **[Recommended Shows](https://recommended-shows-mt.netlify.app/)** - *React, Redux, Node.js*
+* **[Lunch Craft SaaS](https://mohamad-taha.com/portfolio/wordpress/lunch_craft-wp)** - *PHP, Bootstrap, MySQL*
+* **[Typing Speed App](https://typing-speed-mt.netlify.app/)** - *MERN Stack*
 
 ---
 
@@ -51,9 +48,8 @@ I am a **Full Stack Developer** with a passion for building high-performance web
 <p align="left">
 <a href="https://www.linkedin.com/in/mohammed-taha-07141422b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohammed Taha" height="30" width="40" /></a>
 <a href="mailto:momotaha039@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="momotaha039" height="30" width="40" /></a>
-<a href="https://mohamad-taha.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/domain.png" height="30" width="30" /></a>
 </p>
 
 <p align="center">
-  <i>"Let's craft digital magic together — bug-free code and innovative solutions!"</i>
+  <img src="https://komarev.com/ghpvc/?username=momotan039&label=Profile%20Views&color=4169E1&style=flat-square" alt="Views Counter" />
 </p>
