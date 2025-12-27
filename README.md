@@ -29,8 +29,8 @@ I am a **Full Stack Developer** with a passion for building high-performance web
 
 ### 📊 GitHub Statistics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mohammed's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=momotan039&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mohammed's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momotan039&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
