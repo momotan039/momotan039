@@ -1,80 +1,59 @@
-# 👋 Hey there, I'm **Mohammed Taha**
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW94bm96Ym96Ym96Ym96Ym96Ym96Ym96Ym96Ym96JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="35"> Hello, I'm Mohammed Taha
 
-## 🌟 About Me  
-I’m a **Full Stack Developer (3+ years)** experienced in building **scalable, high-performance web applications** using **React.js, Node.js, PHP, .NET, and WordPress**.  
-I focus on delivering **clean, maintainable code** and **optimized user experiences**, with deployments across **AWS and VPS environments**.
-
-🤖 I also integrate **AI capabilities** into web systems — leveraging **OpenAI APIs, RAG pipelines, and local LLMs (Ollama)** to create intelligent chatbots, recommendation engines, and automated workflows.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4169E1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+(3++Years);AI+Integration+Specialist;React+%26+.NET+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+</p>
 
 ---
 
-## 💻 My Tech Stack  
+### 🚀 About Me
+I am a **Full Stack Developer** with a passion for building high-performance web applications. My expertise lies in bridging the gap between traditional web development and modern **AI-driven solutions**.
 
-### 🧠 Backend  
-- .NET 6–8 (C# 12)  
-- Node.js / Express.js  
-- PHP  
-
-### 🎨 Frontend  
-- React.js / Next.js / Angular  
-- WordPress (Custom Themes & Plugins)  
-- TypeScript / JavaScript (ES6+)  
-
-### 🗄️ Databases  
-- SQL Server / MySQL  
-- MongoDB / DynamoDB  
-
-### ☁️ Cloud & DevOps  
-- AWS (EC2, S3, CloudFront)  
-- Docker / CI-CD Pipelines  
-
-### 🤖 AI Integration  
-- OpenAI API / LangChain / RAG Systems  
-- Ollama / Local AI Models  
-
-### ⚙️ Other Skills  
-- OOP / RESTful APIs  
-- Git / Agile & Scrum  
+- 🤖 **AI Focus:** Integrating OpenAI, LangChain, and RAG pipelines to create intelligent workflows.
+- ☁️ **Cloud:** Experienced in deploying and managing environments on **AWS & VPS**.
+- 🛠️ **Philosophy:** Writing clean, maintainable, and "bug-free" code.
 
 ---
 
-## 🚀 My Focus  
-Delivering **secure**, **scalable**, and **intelligent** solutions that merge modern web technologies with **applied AI** — turning traditional apps into smarter, more efficient digital experiences.
+### 🛠️ Tech Stack & Skills
+
+| Category | Skills |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
+| **Backend** | ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
+| **AI & LLM** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge) |
+| **DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
 
-## 🏆 Portfolio
-Check out my live projects and explore my **digital creations**: [Portfolio](https://mohamad-taha.com)
+### 📊 GitHub Statistics
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mohammed's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-## 🚀 Selected Projects
+### 🌟 Featured Projects
 
-### 1. Musalsali Project
-- **Technologies:** PHP, WordPress, MySQL, PhpMyAdmin, HTML, CSS, JavaScript  
-- **Live Demo:** [Explore Project](https://mohamad-taha.com/portfolio/wordpress/musalsali-wp)
+> [!TIP]
+> Click on the links below to see live demos of my work!
 
-### 2. Recommended Shows
-- **Technologies:** React.js, Redux.js, Node.js, Express.js  
-- **Live Demo:** [Discover Project](https://recommended-shows-mt.netlify.app/)
-
-### 3. Typing Speed App
-- **Technologies:** React.js, Node.js, MongoDB  
-- **Live Demo:** [Embark on the Quest](https://typing-speed-mt.netlify.app/)
-
-### 4. Lunch Craft SaaS
-- **Technologies:** PHP, WordPress, MySQL, PhpMyAdmin, Bootstrap, HTML, CSS, JS  
-- **Live Demo:** [Explore Project](https://mohamad-taha.com/portfolio/wordpress/lunch_craft-wp)
-
-### 5. Restaurant Café Food
-- **Technologies:** PHP, WordPress, MySQL, PhpMyAdmin, Bootstrap, HTML, CSS, JS  
-- **Live Demo:** [Explore Project](https://mohamad-taha.com/portfolio/wordpress/restaurant-wp)
+- **[Musalsali Project](https://mohamad-taha.com/portfolio/wordpress/musalsali-wp)** *PHP, WordPress, MySQL* - A comprehensive media platform.
+- **[Recommended Shows](https://recommended-shows-mt.netlify.app/)** *React, Redux, Node.js* - Intelligent content discovery.
+- **[Lunch Craft SaaS](https://mohamad-taha.com/portfolio/wordpress/lunch_craft-wp)** *PHP, Bootstrap, MySQL* - Scalable SaaS solution for food services.
+- **[Typing Speed App](https://typing-speed-mt.netlify.app/)** *MERN Stack* - A high-performance real-time application.
 
 ---
 
-## 📬 Let's Connect
-Whether you want to **collaborate, hire, or share coding adventures**, I’d love to hear from you:  
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mohammed-taha-07141422b/)  
-- **Email:** momotaha039@gmail.com  
+### 📫 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/mohammed-taha-07141422b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohammed Taha" height="30" width="40" /></a>
+<a href="mailto:momotaha039@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="momotaha039" height="30" width="40" /></a>
+<a href="https://mohamad-taha.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/domain.png" height="30" width="30" /></a>
+</p>
 
-✨ Let's craft **digital magic** together — bug-free code, smooth deployments, and innovative solutions!
+<p align="center">
+  <i>"Let's craft digital magic together — bug-free code and innovative solutions!"</i>
+</p>
