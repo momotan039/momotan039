@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW94bm96Ym96Ym96Ym96Ym96Ym96Ym96Ym96Ym96JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="40"> ERROR 404: Sleep Not Found | I'm Mohammed Taha
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Converting+Coffee+into+Code...;Building+AI+that+might+take+over;Full+Stack+Wizard+(3++Years);Exposing+Bugs+Since+2021" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Converting+Coffee+into+Code...;Building+AI+that+might+take+over;Full+Stack+Wizard+(2++Years);Exposing+Bugs+Since+2021" alt="Typing SVG" />
 </p>
 
 ---
